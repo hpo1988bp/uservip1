@@ -1,1 +1,20 @@
-
+[
+    {
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "26-7-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "device456",
+        "key": "1@hpo@789",
+        "expirydate": "28-7-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device456",
+        "key": "key67890",
+        "expirydate": "28-7-2025",
+        "Allowoffline": false
+    }
+]
